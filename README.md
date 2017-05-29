@@ -1,6 +1,6 @@
 ![Public Domain](https://licensebuttons.net/p/zero/1.0/88x31.png)
 
-# Manx corpora
+# Linguistic Corpora in Manx Gaelic
 
 ## 19th Century Newspapers
 
