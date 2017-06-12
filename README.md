@@ -4,7 +4,7 @@
 
 ## 19th Century Newspapers
 
-`gv_news_1821.xml` — Manx prose texts in nineteenth century newspapers
+`gv_news_1821.html` — Manx prose texts in nineteenth century newspapers
 (1821–1871). Edited and brought to normalized orthography by
 Christopher Lewin; published by Adrian Cain of Culture Vannin. To the
 extent possible under law, Christopher Lewin and Adrian Cain have
